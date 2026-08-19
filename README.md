@@ -1,129 +1,93 @@
 # 👋 Hey, I'm Oluwafolafunmi
 
-### 🧑‍💻 Student • Python Developer • Builder • Innovator
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=theonewholaughs01&color=792ee5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Engineering-blue?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Founder-Trident%20Labs-darkred?style=for-the-badge" alt="Trident Labs" />
+</p>
 
-I'm a student and developer on a journey through **Python, Web Development, Artificial Intelligence, and Software Engineering**.
+### 🧑‍💻 Student • Python Developer • AI Enthusiast • Innovator
 
-I enjoy turning ideas into working projects, experimenting with new technologies, and finding creative ways to solve real-world problems.
+I'm a developer and student on a mission through **Python, Web Development, Artificial Intelligence, and Software Engineering**.
 
-I'm not interested in just writing code.
+I enjoy turning abstract ideas into working prototypes, experimenting with cutting-edge technologies, and crafting creative solutions to real-world problems.
 
-**I want to build things that matter.**
+> *"I'm not interested in just writing code — **I want to build things that matter.**"*
 
 ---
 
 ## 🚀 What I'm Currently Doing
 
-- 🐍 Learning and developing with Python
-- 🌐 Building web applications and interactive experiences
-- 🤖 Experimenting with AI and LLM-powered applications
-- ⚙️ Exploring APIs, automation, and backend development
-- 🧠 Improving my software engineering and problem-solving skills
-- 🔬 Building experimental projects and prototypes
-- ⚔️ Developing ideas through **Trident Labs**
+- 🐍 **Python & Backend:** Developing core logic, automation scripts, and RESTful APIs.
+- 🌐 **Interactive Web:** Crafting dynamic frontends and immersive web experiences.
+- 🤖 **AI & LLM Systems:** Exploring prompt engineering, autonomous agents, and model integration.
+- ⚔️ **Trident Labs:** Researching and prototyping experimental technology solutions.
+- 🧠 **Problem Solving:** Honing algorithms, software architecture, and system design skills.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Arsenal
 
-### 💻 Languages
+### 💻 Languages & Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🤖 AI & Development
-
-I'm particularly interested in the intersection between **software development and artificial intelligence**.
-
-Some areas I'm exploring:
-
-- 🧠 Large Language Models
-- 🤖 AI-powered applications
-- 🔌 AI APIs
-- ⚙️ Intelligent automation
-- 🌐 AI-integrated web applications
-- 🧪 Experimental AI systems
+### ⚙️ Tools, Systems & Environments
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
-## 🔬 Projects & Experiments
+## 🔬 Featured Projects & Experiments
 
-### 🤖 ARKTANAX
-
-An experimental AI assistant project exploring **LLMs, cloud services, APIs, and intelligent application development**.
-
----
-
-### 💬 Discord Bot
-
-A custom Discord bot built while exploring **Python, APIs, automation, and bot development**.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🤖 **ARKTANAX** | Experimental AI assistant exploring LLMs, cloud APIs, and autonomous systems. | `Python` `AI / LLM` `Cloud APIs` |
+| 🪐 **Solar Explorer** | Interactive 3D solar system simulation featuring orbital mechanics & astronomical fact sheets. | `HTML5` `CSS3 (Pure 3D)` `UI/UX` |
+| 💬 **Discord Bot** | Feature-rich custom Discord bot automating server tasks, utility features, and API integrations. | `Python` `Discord.py` `APIs` |
+| 🧬 **Genealogy of Jesus** | Interactive web experience visualizing historical Biblical genealogy with a digital interface. | `Web App` `JavaScript` `UI Design` |
+| ⚔️ **Trident Labs** | Applied technology initiative solving real problems across AI, robotics, IoT, and infrastructure. | `R&D` `Hardware & Software` |
 
 ---
 
-### 🧬 Interactive Genealogy of Jesus
+## 🤖 AI & Intelligent Systems Focus
 
-An interactive web application exploring the genealogy of Jesus Christ through a visual and digital experience.
+I'm focused on the convergence of **software engineering and artificial intelligence**:
 
----
-
-### ⚔️ Trident Labs
-
-An innovation initiative focused on building technology that solves real-world problems.
-
-Areas of interest include:
-
-- 💻 Software
-- 🤖 Artificial Intelligence
-- ⚙️ Automation
-- 🔌 Hardware & IoT
-- 🦾 Robotics
-- 🏗️ Smart infrastructure
-- 🌐 Digital platforms
-- 🧪 Experimental technologies
-
-> **Building Technology That Solves Real Problems.**
+- 🧠 **Large Language Models (LLMs):** Fine-tuning prompts, context retrieval, and model workflows.
+- 🔌 **API Integration:** Connecting intelligent models with external tools and databases.
+- ⚙️ **Intelligent Automation:** Building bots and background pipelines that think and execute autonomously.
+- 🧪 **Experimental Systems:** Rapid prototyping of experimental AI apps through **Trident Labs**.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Learning Roadmap
 
 ```text
-Python
-├── Programming Fundamentals
-├── Object-Oriented Programming
-├── APIs
-├── Automation
-├── Data Handling
-└── Backend Development
-
-Web Development
-├── HTML
-├── CSS
-├── JavaScript
-└── Interactive Web Applications
-
-Artificial Intelligence
-├── LLMs
-├── AI APIs
-├── Prompt Engineering
-├── AI-powered Applications
-└── Intelligent Automation
-
-Developer Tools
-├── Git
-├── GitHub
-├── Linux
-├── Termux
-└── VS Code
+Oluwafolafunmi's Roadmap
+├── 🐍 Python
+│   ├── Programming Fundamentals & OOP
+│   ├── APIs & Automation Pipelines
+│   └── Backend Architecture & Data Handling
+├── 🌐 Web Technologies
+│   ├── Responsive UI/UX & CSS 3D
+│   ├── Modern JavaScript
+│   └── Fullstack Interactive Applications
+├── 🤖 Artificial Intelligence
+│   ├── LLMs & Agentic Systems
+│   ├── Intelligent Automation
+│   └── AI-Integrated Web Applications
+└── 🛠️ Developer Ecosystem
+    ├── Git, GitHub & Open Source
+    ├── Linux Shell & Termux
+    └── Cloud Deployment & Scalability
