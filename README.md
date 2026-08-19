@@ -2,7 +2,12 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=theonewholaughs01&color=792ee5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Engineering-blue?style=for-the-badge" alt="Focus" />
+  <a href="https://theonewholaughs01.github.io">
+    <img src="https://img.shields.io/badge/Website-theonewholaughs01.github.io-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="https://instagram.com/0x404.exe">
+    <img src="https://img.shields.io/badge/Instagram-0x404.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <img src="https://img.shields.io/badge/Founder-Trident%20Labs-darkred?style=for-the-badge" alt="Trident Labs" />
 </p>
 
