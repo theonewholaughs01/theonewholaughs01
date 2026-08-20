@@ -54,16 +54,14 @@ I enjoy turning abstract ideas into working prototypes, experimenting with cutti
 </p>
 
 ---
-
 ## 🔬 Featured Projects & Experiments
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🤖 **ARKTANAX** | Experimental AI assistant exploring LLMs, cloud APIs, and autonomous systems. | `Python` `AI / LLM` `Cloud APIs` |
-| 🪐 **Solar Explorer** | Interactive 3D solar system simulation featuring orbital mechanics & astronomical fact sheets. | `HTML5` `CSS3 (Pure 3D)` `UI/UX` |
+| ⚔️ **Trident Labs** | Applied technology initiative solving real problems across AI, robotics, IoT, and infrastructure. | `R&D` `Hardware & Software` |
 | 💬 **Discord Bot** | Feature-rich custom Discord bot automating server tasks, utility features, and API integrations. | `Python` `Discord.py` `APIs` |
 | 🧬 **Genealogy of Jesus** | Interactive web experience visualizing historical Biblical genealogy with a digital interface. | `Web App` `JavaScript` `UI Design` |
-| ⚔️ **Trident Labs** | Applied technology initiative solving real problems across AI, robotics, IoT, and infrastructure. | `R&D` `Hardware & Software` |
 
 ---
 
