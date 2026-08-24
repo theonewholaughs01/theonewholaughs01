@@ -18,5 +18,5 @@ I am currently focused on automation, data handling, web projects, and learning 
 
 ## Links
 
-- [Portfolio](https://theonewholaughs01.github.io)
+- [Portfolio](https://oluwafolio-cdywgfyx.manus.space/)
 - [GitHub](https://github.com/theonewholaughs01)
