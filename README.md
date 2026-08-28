@@ -16,7 +16,3 @@ I am currently focused on automation, data handling, web projects, and learning 
 - [Trident Labs](https://github.com/theonewholaughs01/trident-labs)
 - [Interactive Genealogy of Jesus](https://theonewholaughs01.github.io/genealogy_interactive.html)
 
-## Links
-
-- [Portfolio](https://oluwafolio-cdywgfyx.manus.space/)
-- [GitHub](https://github.com/theonewholaughs01)
